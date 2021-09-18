@@ -24,7 +24,7 @@
 <p align="left">
   🦄Techs:</br>
   
-  <strong>Java, Dart, Flutter, Zkoss, Spring,SQL e JSON.</strong>
+  <strong>Java, Zkoss, Ecosistema Spring , SQL.</strong>
 </p>
 
 <p align="left">
