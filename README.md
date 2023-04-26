@@ -5,7 +5,7 @@
 ## 🧔🏾‍♂️ **Sobre mim**
 
 - 😏 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 Atualmente trabalhando como **Desenvolvedor Backend** na <a href="https://www.ntendencia.com.br">Nova Tendência</a> para o cliente <a href="https://www.bbseguros.com.br">BB Seguros</a> 
+- 💼 Atualmente trabalhando como **Desenvolvedor Backend** na <a href="https://www.ntendencia.com.br">Nova Tendência</a> para o cliente <a href="https://www.bbseguros.com.br/quem-somos">BB Seguros</a>.
 - 🌱 Atualmente aprendendo mais sobre **Docker, Java, Spring, Typescript, Angular e Cloud Computing (AWS)**.
 
 ## 🚀 Minhas Skills
