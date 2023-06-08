@@ -15,8 +15,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openJdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-00C7B7?style=flat&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-017AD7?style=flat&logo=hibernate&logoColor=white)
@@ -27,6 +25,9 @@
 
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-563D7C?style=flat&logo=insomnia)
+![Notion](https://img.shields.io/badge/-Notion-003791?style=flat&logo=notion&logoColor=white)
+![Miro](https://img.shields.io/badge/-Miro-EA2046?style=flat&logo=miro&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-1DAEFF?style=flat&logo=jira&logoColor=white)
 
 **DevOps**
 
@@ -41,9 +42,6 @@
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-35495E?style=flat&logo=intellij-idea&logoColor=white)
 ![Data-Grip](https://img.shields.io/badge/-Data%20Grip-092E20?style=flat&logo=datagrip&logoColor=white)
 ![VsCode](https://img.shields.io/badge/-VSCode-017AD7?style=flat&logo=visual-studio-code&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-003791?style=flat&logo=notion&logoColor=white)
-![Miro](https://img.shields.io/badge/-Miro-EA2046?style=flat&logo=miro&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-1DAEFF?style=flat&logo=jira&logoColor=white)
 
 
 ## 🌎 Onde me encontrar 
