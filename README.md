@@ -4,11 +4,11 @@
 
 ## 🧔🏾‍♂️ **About me**
 
-- 😏 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 Atualmente trabalhando como **Desenvolvedor Backend** na <a href="https://www.ntendencia.com.br">Nova Tendência</a> para o cliente <a href="https://www.bbseguros.com.br/quem-somos">BB Seguros</a>.
-- 🌱 Atualmente aprendendo mais sobre **Docker, Java, Spring, Typescript, Angular e Cloud Computing (AWS)**.
-
-## 🚀 Minhas Skills
+- 😏 Exploring new technologies and developing software solutions.
+- 💼 Currently working as a **Backend Developer** at <a href="https://www.ntendencia.com.br">Nova Tendência</a> for the customer <a href="https://www.bbseguros.com.br/quem-somos">BB Seguros</a>.
+- 🌱 Currently learning more about **Docker, Java, Spring, Quarkus, Typescript, Angular and Cloud Computing (AWS).**
+  
+## 🚀 My Skills
 
 **Data and Applications**
 
