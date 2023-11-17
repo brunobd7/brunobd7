@@ -2,7 +2,7 @@
 
 # < Hello, world! I'm Bruno / >
 
-## 🧔🏾‍♂️ **Sobre mim**
+## 🧔🏾‍♂️ **About me**
 
 - 😏 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 💼 Atualmente trabalhando como **Desenvolvedor Backend** na <a href="https://www.ntendencia.com.br">Nova Tendência</a> para o cliente <a href="https://www.bbseguros.com.br/quem-somos">BB Seguros</a>.
@@ -10,7 +10,7 @@
 
 ## 🚀 Minhas Skills
 
-**Aplicações e Dados**
+**Data and Applications**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openJdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -21,7 +21,7 @@
 ![JSON](https://img.shields.io/badge/JSON-333333?style=flat&logo=json)
 ![Swagger](https://img.shields.io/badge/-Swagger/OpenAPI-3955A3?style=flat&logo=swagger&logoColor=white)
 
-**Utilidades**
+**Utilities**
 
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-563D7C?style=flat&logo=insomnia)
@@ -37,14 +37,14 @@
 ![Docker](https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=docker)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D33833?style=flat&logo=jenkins&logoColor=white)
 
-**Ferramentas de Desenvolvimento**
+**Development Tools**
 
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-35495E?style=flat&logo=intellij-idea&logoColor=white)
 ![Data-Grip](https://img.shields.io/badge/-Data%20Grip-092E20?style=flat&logo=datagrip&logoColor=white)
 ![VsCode](https://img.shields.io/badge/-VSCode-017AD7?style=flat&logo=visual-studio-code&logoColor=white)
 
 
-## 🌎 Onde me encontrar 
+## 🌎 Where find me ? 
 
 [![Linkedin:Bruno Dantas](https://img.shields.io/badge/-Bruno%20Dantas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-dantas-/)](https://www.linkedin.com/in/bruno-dantas-/)
 [![Gmail Badge](https://img.shields.io/badge/-brunoodantas7@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunoodantas7@gmail.com)](mailto:brunoodantas7@gmail.com)
