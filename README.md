@@ -1,51 +1,30 @@
+# Hi 👋🏾, I'm Bruno Dantas
+
+### A seasoned Java developer
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunobd7&label=Profile views&color=0e75b6&style=flat" alt="brunobd7" /> </p> -->
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-# < Hello, world! I'm Bruno / >
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunobd7" alt="brunobd7" /></a> </p> -->
 
-## 🧔🏾‍♂️ **About me**
+- 🔭 I'm currently working on **Bunch of API's and some SaaS.**
 
-- 😏 Exploring new technologies and developing software solutions.
-- 💼 Currently working as a **Backend Developer** at <a href="https://www.ntendencia.com.br">Nova Tendência</a> for the customer <a href="https://www.bbseguros.com.br/quem-somos">BB Seguros</a>.
-- 🌱 Currently learning more about **Docker, Java, Spring, Quarkus, Typescript, Angular and Cloud Computing (AWS).**
-  
-## 🚀 My Skills
+- 💬 Ask me about **Java & Spring Ecosystem 🍃**
 
-**Data and Applications**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openJdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-017AD7?style=flat&logo=hibernate&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-333333?style=flat&logo=json)
-![Swagger](https://img.shields.io/badge/-Swagger/OpenAPI-3955A3?style=flat&logo=swagger&logoColor=white)
-
-**Utilities**
-
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Insomnia](https://img.shields.io/badge/-Insomnia-563D7C?style=flat&logo=insomnia)
-![Notion](https://img.shields.io/badge/-Notion-003791?style=flat&logo=notion&logoColor=white)
-![Miro](https://img.shields.io/badge/-Miro-EA2046?style=flat&logo=miro&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-1DAEFF?style=flat&logo=jira&logoColor=white)
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-E34F26?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-7B42BC?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-017AD7?style=flat&logo=bitbucket&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=docker)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D33833?style=flat&logo=jenkins&logoColor=white)
-
-**Development Tools**
-
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-35495E?style=flat&logo=intellij-idea&logoColor=white)
-![Data-Grip](https://img.shields.io/badge/-Data%20Grip-092E20?style=flat&logo=datagrip&logoColor=white)
-![VsCode](https://img.shields.io/badge/-VSCode-017AD7?style=flat&logo=visual-studio-code&logoColor=white)
+- 📫 How to reach me **brunoodantas7@gmail.com**
 
 
-## 🌎 Where find me ? 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/brunobd7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="brunobd7" height="30" width="40" /></a>
+<a href="https://dev.to/brunobd7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="brunobd7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bruno-dantas-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-dantas-" height="30" width="40" /></a>
+<a href="https://hackerrank.com/brunoodantas7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="brunoodantas7" height="30" width="40" /></a>
+<a href="https://leetcode.com/brunoodantas7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="brunoodantas7" height="30" width="40" /></a>
+<a href="https://discord.gg/S13G3H4RT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="S13G3H4RT" height="30" width="40" /></a>
+</p>
 
-[![Linkedin:Bruno Dantas](https://img.shields.io/badge/-Bruno%20Dantas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-dantas-/)](https://www.linkedin.com/in/bruno-dantas-/)
-[![Gmail Badge](https://img.shields.io/badge/-brunoodantas7@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunoodantas7@gmail.com)](mailto:brunoodantas7@gmail.com)
-[![GitHub Bruno Dantas]( https://img.shields.io/github/followers/brunobd7?label=follow&style=social)](https://github.com/brunobd7)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a></p>
+
